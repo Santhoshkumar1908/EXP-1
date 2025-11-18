@@ -49,6 +49,8 @@ a.   KVL:
 
 
 b.  KCL:
+
+
  <img width="1524" height="803" alt="KCL" src="https://github.com/user-attachments/assets/cd9700dd-9cb4-44f0-a4c7-06a774d1aef9" />
 
 
@@ -75,7 +77,11 @@ Hence, Proved
 \end{aligned}
 $$
 
+
+
 b.  KCL:
+
+
 
 $$
 \begin{aligned}
